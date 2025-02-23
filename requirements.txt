@@ -1,0 +1,16 @@
+ipykernel
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn==1.5.2
+implicit
+gensim
+tensorflow
+keras
+faiss-cpu
+nltk
+rake_nltk
+imblearn
+xgboost
+streamlit
