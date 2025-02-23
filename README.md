@@ -6,10 +6,7 @@ This repository showcases a step-by-step Neural Collaborative Filtering pipeline
 
 ## **App Demonstration**
 
-<video width="600" controls>
-  <source src="Video_demonstration/recommendation_system.gif" type="video/mp4">
-  Your browser does not support HTML5 video.  
-</video>
+![Image](https://github.com/user-attachments/assets/7172ff37-5556-44e0-b4fa-e3ccd5b54df3)
 
 
 ## **Objectives**
