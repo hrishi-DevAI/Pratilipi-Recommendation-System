@@ -163,5 +163,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## **Contact**
 if you have questions or want to share improvements, feelfree to reach out:
 - **Name**: Hrishikesh Das
-- **Email**: your.email@example.com  
+- **Email**: hrishi2001das@gmail.com  
 - **LinkedIn**: [LinkedInProfile](https://www.linkedin.com/in/hrishikesh-das-200114dec/)
